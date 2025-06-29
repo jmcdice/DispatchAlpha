@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Database
+dispatch.db
